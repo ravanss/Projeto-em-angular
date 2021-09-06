@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    span{
+        a{
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            .header-logo{
+                height: 80px;
+            }
+        }
+    }
+    .title-group{
+        padding-left: 25px;
+        i{
+            padding-right: 5px;
+        }
+    }
+}
