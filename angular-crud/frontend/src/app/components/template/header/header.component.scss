@@ -1,14 +1,14 @@
 .header{
     display: flex;
     align-items: center;
-    height: 100px;
+    height: 90px;
     span{
         a{
             display: flex;
             align-items: center;
             text-decoration: none;
             .header-logo{
-                height: 80px;
+                height: 50px;
             }
         }
     }
