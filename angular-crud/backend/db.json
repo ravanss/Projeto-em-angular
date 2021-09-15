@@ -14,6 +14,21 @@
       "id": 3,
       "name": "lapis",
       "price": 1.89
+    },
+    {
+      "name": "Teste",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "geladeira",
+      "price": "1.850.99",
+      "id": 5
+    },
+    {
+      "name": "mesa escritorio",
+      "price": "600.00",
+      "id": 6
     }
   ]
 }
