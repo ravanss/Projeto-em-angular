@@ -1,19 +1,19 @@
 {
-    "produtos": [
-        {
-            "id": 1,
-            "name": "Caneta Bic Preta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Caderno 12 material",
-            "price": 25.00
-        },
-        {
-            "id": 3,
-            "name": "lapis",
-            "price": 1.89
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caderno 12 material",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "lapis",
+      "price": 1.89
+    }
+  ]
 }
