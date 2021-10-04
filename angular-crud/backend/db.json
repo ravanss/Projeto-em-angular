@@ -29,6 +29,11 @@
       "name": "mesa escritorio",
       "price": "600.00",
       "id": 6
+    },
+    {
+      "name": "filmes",
+      "price": "1.99",
+      "id": 7
     }
   ]
 }
