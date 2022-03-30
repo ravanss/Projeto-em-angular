@@ -6,14 +6,9 @@
       "price": 5.89
     },
     {
-      "id": 2,
-      "name": "Caderno 12 material",
-      "price": 25
-    },
-    {
       "id": 3,
       "name": "lapis",
-      "price": 1.89
+      "price": "1.79"
     },
     {
       "name": "Teste",
@@ -21,8 +16,8 @@
       "id": 4
     },
     {
-      "name": "geladeira",
-      "price": "1.850.99",
+      "name": "geladeira samsung",
+      "price": "1580.99",
       "id": 5
     },
     {
