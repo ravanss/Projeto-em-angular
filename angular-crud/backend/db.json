@@ -27,8 +27,13 @@
     },
     {
       "name": "filmes",
-      "price": "1.99",
+      "price": "19.99",
       "id": 7
+    },
+    {
+      "name": "envelop",
+      "price": "1.00",
+      "id": 8
     }
   ]
 }
